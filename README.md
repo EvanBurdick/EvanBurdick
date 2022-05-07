@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **burdickevan@gmail.com**
 
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=radical)
+<h3 align="center">![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=radical) </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
