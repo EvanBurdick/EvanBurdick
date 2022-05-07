@@ -2,12 +2,7 @@
 <h3 align="center">A computer science student / programming hobbyist</h3>
 
 - 📫 How to reach me **burdickevan@gmail.com**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=radical)
 
 
