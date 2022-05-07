@@ -1,6 +1,8 @@
-Hi, I am @EvanBurdick and I am a senior Computer Science student. I am intersted in data analysis and artificial intelligence
+Hi, I am @EvanBurdick and I am a computer science student/hobbyist. 
 
-<!---
-EvanBurdick/EvanBurdick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages:
+
+Application: C++ / C# / C / Java / Python
+Website: HTML / CSS / JavaScript (NodeJS)
+Database: SQL / MongoDB
+Mobile Dev: Kotlin
