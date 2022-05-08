@@ -4,7 +4,7 @@
 - Email: **burdickevan@gmail.com** 
 - Twitter: [@Evan_Burdick_](https://twitter.com/Evan_Burdick_)
 
-<a> https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark </a>
+<a href><img src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark"</img></a>
 
 
 <h3 align="left">Programming Languages:</h3>
