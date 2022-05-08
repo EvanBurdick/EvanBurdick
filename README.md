@@ -5,7 +5,7 @@
 - Email: **burdickevan@gmail.com** 
 - Twitter: [@Evan_Burdick_](https://twitter.com/Evan_Burdick_)
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/EvanBurdick">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark" />
   </a>
 
@@ -30,7 +30,7 @@
 </p>
 
 
- <a href="https://github.com/anuraghazra/convoychat">
+ <a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=AI-Animal-Checkers&theme=dark" />
 </a>
 
