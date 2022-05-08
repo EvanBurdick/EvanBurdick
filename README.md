@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **burdickevan@gmail.com** 
 
-Twitter: Evan_Burdick_
+Twitter: @Evan_Burdick_
 <a href="https://twitter.com/evan_burdick_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evan_burdick_" height="30" width="40" /></a>
 
 
