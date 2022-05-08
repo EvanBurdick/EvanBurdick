@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Evan Burdick</h1>
 <h3>A computer science student / programming hobbyist</h3>
 
-- 📫 How to reach me **burdickevan@gmail.com** 
+- 📫 How to reach me: **burdickevan@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
