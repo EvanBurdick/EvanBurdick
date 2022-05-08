@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Evan Burdick</h1>
+<h1>Evan Burdick</h1>
 <h3>A computer science student / programming hobbyist</h3>
 
 - Email: **burdickevan@gmail.com** 
