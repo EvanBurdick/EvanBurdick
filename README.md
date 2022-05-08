@@ -2,7 +2,7 @@
 <h3>A computer science student / programming hobbyist</h3>
 
 - Email: **burdickevan@gmail.com** 
-- Twitter: @Evan_Burdick_
+- Twitter: [@Evan_Burdick_](https://twitter.com/Evan_Burdick_)
 
 
 <h3 align="left">Languages and Tools:</h3>
