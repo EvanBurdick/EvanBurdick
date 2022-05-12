@@ -7,7 +7,7 @@
 - Discord: [ΣVΛП#8270](https://discordapp.com/users/292081123402448896)
   
   <a href="https://github.com/EvanBurdick">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark" />
   </a>
 
  <a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
