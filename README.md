@@ -10,10 +10,10 @@
   </a>
 
  <a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=AI-Animal-Checkers&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=AI-Animal-Checkers&theme=dark" />
 </a>
 <a href="https://github.com/EvanBurdick/Node.js-Discord-Bot-DuckyBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=Node.js-Discord-Bot-DuckyBot&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=Node.js-Discord-Bot-DuckyBot&theme=dark" />
 </a>
 
 <a href="https://github.com/EvanBurdick">
