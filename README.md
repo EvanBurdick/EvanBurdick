@@ -4,6 +4,7 @@
 
 - Email: **burdickevan@gmail.com** 
 - Twitter: [@Evan_Burdick_](https://twitter.com/Evan_Burdick_)
+- Discord: ΣVΛП#8270
   
   <a href="https://github.com/EvanBurdick">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark" />
