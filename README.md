@@ -9,7 +9,19 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark" />
   </a>
 
+ <a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=AI-Animal-Checkers&theme=dark" />
+</a>
+<a href="https://github.com/EvanBurdick/Node.js-Discord-Bot-DuckyBot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=Node.js-Discord-Bot-DuckyBot&theme=dark" />
+</a>
 
+<a href="https://github.com/EvanBurdick">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBurdick&layout=compact&theme=dark" />
+</a>
+
+
+<!--- (PROGRAMMING LANGUAGES)
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -29,10 +41,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
-
- <a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=AI-Animal-Checkers&theme=dark" />
-</a>
 
 
 <h3 align="left">Backend Development:</h3>
@@ -64,3 +72,4 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
+--->
