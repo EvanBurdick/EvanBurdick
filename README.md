@@ -5,14 +5,15 @@
 - Email: **burdickevan@gmail.com** 
 - Twitter: [@Evan_Burdick_](https://twitter.com/Evan_Burdick_)
 - Discord: [ΣVΛП#8270](https://discordapp.com/users/292081123402448896)
-  
+
 <a href="https://github.com/EvanBurdick">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=EvanBurdick&show_icons=true&theme=dark" />
 </a>
 
- <a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
+<a href="https://github.com/EvanBurdick/AI-Animal-Checkers">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=AI-Animal-Checkers&theme=dark" />
 </a>
+
 <a href="https://github.com/EvanBurdick/Node.js-Discord-Bot-DuckyBot">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=Node.js-Discord-Bot-DuckyBot&theme=dark" />
 </a>
