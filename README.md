@@ -21,7 +21,9 @@
 <a href="https://github.com/EvanBurdick">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBurdick&layout=compact&theme=dark" />
 </a>
-
+<a href="https://github.com/EvanBurdick/Java-Drawing-Program">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanBurdick&repo=Java-Drawing-Program&theme=dark" />
+</a>
 
 <!--- (PROGRAMMING LANGUAGES)
 
