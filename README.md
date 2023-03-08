@@ -1,4 +1,4 @@
-<h1>Evan Burdick</h1>
+<h1>Evan Burdick (projects currently set to private)</h1>
 <h3>A computer science student / programming hobbyist</h3>
 
 
